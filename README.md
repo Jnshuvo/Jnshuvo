@@ -6,11 +6,11 @@ I'm a competent professional with extensive experience in designing, deploying, 
 
 **Key technical skills:**
 
-Infrastructure & Virtualization: VMware, Nutanix, Dell EMC, HPE, Veeam, Cisco
+Infrastructure & Virtualization: VMware, Nutanix, Dell EMC, HPE, Veeam, Cisco  
 
-Operating Systems: Linux (RedHat), Windows Server
+Operating Systems: Linux (RedHat), Windows Server  
 
-Cloud Platforms: Azure, Google Cloud (GCP)
+Cloud Platforms: Azure, Google Cloud (GCP)  
 
 Storage & Backup Solutions: SAN, NAS, HCI, Fiber Channel SAN Fabrics, DR Replication, Enterprise Backup & Recovery
 
