@@ -25,7 +25,7 @@ Communication, teamwork and collaboration, adaptability, work ethic, responsibil
 
 ![image](https://github.com/user-attachments/assets/579e21d8-3fb2-4520-a265-11919d6bab70)
 
-![image](https://github.com/user-attachments/assets/ddfdcd85-1a46-4578-8125-963d30395fc3)(https://www.linkedin.com/in/jnshuvo/)
+[![image](https://github.com/user-attachments/assets/ddfdcd85-1a46-4578-8125-963d30395fc3)(https://www.linkedin.com/in/jnshuvo/)]
 
 ![image](https://github.com/user-attachments/assets/4d0cbb7f-68f5-478f-a7d6-60ac0cc0e4f0)![image](https://github.com/user-attachments/assets/bf324a62-bcce-424b-a97d-e368c9971a73)![image](https://github.com/user-attachments/assets/f7c75182-0d0f-43bc-8807-f6f0f70cc03b)
 
