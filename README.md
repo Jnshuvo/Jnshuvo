@@ -20,9 +20,9 @@ Soft skills:
 Communication, teamwork and collaboration, adaptability, work ethic, responsibility, problem solving, and critical observation.
 
 
-🔭 I’m currently working at: Smart Technologies BD Ltd., Bangladesh Army VMware project
+*🔭 I’m currently working at: Smart Technologies BD Ltd., Bangladesh Army VMware project
 
-🌱 I’m currently enhancing my knowledge in: Advanced IT systems and infrastructure solutions
+*🌱 I’m currently enhancing my knowledge in: Advanced IT systems and infrastructure solutions
 
-📫 How to reach me: jnshuvo0@gmail.com
+*📫 How to reach me: jnshuvo0@gmail.com
 
