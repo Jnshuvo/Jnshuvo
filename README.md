@@ -23,7 +23,9 @@ Communication, teamwork and collaboration, adaptability, work ethic, responsibil
 -🌱 I’m currently enhancing my knowledge in: Advanced IT systems and infrastructure solutions
 -📫 How to reach me: jnshuvo0@gmail.com
 
-[![GitHub Profile](https://github.com/user-attachments/assets/579e21d8-3fb2-4520-a265-11919d6bab70)](https://github.com/Jnshuvo)
+<a href="https://github.com/Jnshuvo">
+  <img src="https://github.com/user-attachments/assets/579e21d8-3fb2-4520-a265-11919d6bab70" alt="GitHub" width="30"/>
+</a>
 
 <a href="https://www.linkedin.com/in/jnshuvo/">
   <img src="https://github.com/user-attachments/assets/ddfdcd85-1a46-4578-8125-963d30395fc3" alt="LinkedIn" width="30"/>
