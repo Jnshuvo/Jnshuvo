@@ -19,9 +19,10 @@ Monitoring & Logging: PRTG, Nagios, ManageEngine OpManager
 Communication, teamwork and collaboration, adaptability, work ethic, responsibility, problem solving, and critical observation.
 
 
--🔭 I’m currently working at: Smart Technologies BD Ltd., Bangladesh Army VMware project
--🌱 I’m currently enhancing my knowledge in: Advanced IT systems and infrastructure solutions
--📫 How to reach me: jnshuvo0@gmail.com
+- 🔭 I’m currently working at: Smart Technologies BD Ltd., Bangladesh Army VMware project
+- 🌱 I’m currently enhancing my knowledge in: Advanced IT systems and infrastructure solutions
+- 📫 How to reach me: jnshuvo0@gmail.com
+
 
 <a href="https://github.com/Jnshuvo">
   <img src="https://github.com/user-attachments/assets/579e21d8-3fb2-4520-a265-11919d6bab70" alt="GitHub" width="30"/>
