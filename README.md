@@ -7,22 +7,14 @@ I'm a competent professional with extensive experience in designing, deploying, 
 **Key technical skills:**
 
 Infrastructure & Virtualization: VMware, Nutanix, Dell EMC, HPE, Veeam, Cisco  
-Operating Systems: Linux (RedHat), Windows Server
-
-Cloud Platforms: Azure, Google Cloud (GCP)
-
-Storage & Backup Solutions: SAN, NAS, HCI, Fiber Channel SAN Fabrics, DR Replication, Enterprise Backup & Recovery
-
-Containerization & Orchestration: Docker, Kubernetes
-
-Automation & Scripting: Python, Bash
-
-CI/CD & DevOps Tools: Jenkins, GitLab CI
-
-Networking & Security: DNS, DHCP, Web Server, Proxy, Mail, NTP, SSL Certificates, Intrusion Detection Systems
-
-Identity & Access Management: OpenLDAP, Active Directory, Single Sign-On (SSO) with SAML and OAuth
-
+Operating Systems: Linux (RedHat), Windows Server  
+Cloud Platforms: Azure, Google Cloud (GCP)  
+Storage & Backup Solutions: SAN, NAS, HCI, Fiber Channel SAN Fabrics, DR Replication, Enterprise Backup & Recovery  
+Containerization & Orchestration: Docker, Kubernetes  
+Automation & Scripting: Python, Bash  
+CI/CD & DevOps Tools: Jenkins, GitLab CI  
+Networking & Security: DNS, DHCP, Web Server, Proxy, Mail, NTP, SSL Certificates, Intrusion Detection Systems  
+Identity & Access Management: OpenLDAP, Active Directory, Single Sign-On (SSO) with SAML and OAuth  
 Monitoring & Logging: PRTG, Nagios, ManageEngine OpManager
 
 **Soft skills:**
