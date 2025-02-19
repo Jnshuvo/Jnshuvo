@@ -3,13 +3,13 @@
 **I work as an Administrative System Engineer.**  
 I'm a competent professional with extensive experience in designing, deploying, and managing enterprise IT infrastructure across on-premises and cloud environments. My expertise includes system administration, network configuration, IT security, and disaster recovery planning, ensuring system reliability, scalability, optimized performance, and secure IT ecosystems. Also spans high-performance storage solutions, virtualization, cloud computing, and automation. I have over three years of hands-on experience in server management, virtualization, and troubleshooting complex system issues.
 
-**IT Infrastructure & Cloud Management**  
+### **IT Infrastructure & Cloud Management**  
 - Design, deploy, and manage Linux (RedHat) and Windows Server technologies on-premises and in AWS, Azure, GCP.  
 - Configure and manage VMware virtualization solutions and physical hardware.  
 - Implement and manage high-performance, highly available, secure, and scalable enterprise storage solutions (SAN, NAS, HCI).  
 - Support high-performance storage hardware solutions, Fiber Channel SAN fabrics, and NAS solutions, including replication to DR sites.  
 
-**System Administration & Security**  
+### **System Administration & Security**  
 - Monitor server performance, identify bottlenecks, and resolve system issues proactively.  
 - Conduct regular security audits, apply patches, and enforce compliance with security best practices.  
 - Implement and manage intrusion detection systems (IDS), firewall configurations, and access controls.  
