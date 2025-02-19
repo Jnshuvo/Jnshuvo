@@ -15,25 +15,25 @@ I'm a competent professional with extensive experience in designing, deploying, 
 - Implement and manage intrusion detection systems (IDS), firewall configurations, and access controls.  
 - Perform disaster recovery planning and implement backup strategies.  
 
-**Network & IT Infrastructure Management**  
+### **Network & IT Infrastructure Management**  
 - Manage and support office network hardware, routers, and local IT infrastructure.  
 - Diagnose and resolve connectivity issues within office environments.  
 - Support and maintain critical enterprise-wide IT services, including DNS, DHCP, Web Server, Proxy, Mail, NTP, SSL Certificates, and Antivirus.  
 
-**Identity & Access Management**  
+### **Identity & Access Management**  
 - Implement and manage OpenLDAP and Active Directory for authentication and access control.  
 - Configure Single Sign-On (SSO) solutions using SAML and OAuth.  
 
-**Web Hosting & Server Management**  
+### **Web Hosting & Server Management**  
 - Configure, manage, and maintain CPanel-based environments for hosting multiple WordPress websites.  
 - Deploy, host, and maintain React, Next.js, Laravel, and Streamlit applications, with or without CPanel.  
 - Implement, monitor, and optimize Nginx and Apache web servers for performance and stability.  
 
-**Database Management**  
+### **Database Management**  
 - Administer MySQL, PostgreSQL, MongoDB, and SQLite databases.  
 - Perform routine database backups, recovery, optimization, and performance tuning.  
 
-**Automation, Monitoring & Performance Tuning**  
+### **Automation, Monitoring & Performance Tuning**  
 - Automate routine server tasks using Ansible.  
 - Optimize and streamline deployment pipelines using Jenkins, GitLab CI/CD.  
 - Monitor system performance and availability using Nagios, Zabbix, PagerDuty, and ELK (Elastic Stack).  
