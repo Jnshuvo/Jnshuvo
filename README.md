@@ -38,13 +38,14 @@ I'm a competent professional with extensive experience in designing, deploying, 
 - Optimize and streamline deployment pipelines using Jenkins, GitLab CI/CD.  
 - Monitor system performance and availability using Nagios, Zabbix, PagerDuty, and ELK (Elastic Stack).  
 - Analyze and tune server performance to handle high-traffic environments efficiently.  
-- Optimize containerized environments using Docker and Kubernetes.
+- Optimize containerized environments using Docker and Kubernetes.  
 
-
+---
 
 - 🔭 I’m currently working at: Smart Technologies BD Ltd., Bangladesh Army VMware project  
 - 🌱 I’m currently enhancing my knowledge in: Advanced IT systems and infrastructure solutions  
 - 📫 How to reach me: jnshuvo0@gmail.com  
+ 
 
 
 <a href="https://github.com/Jnshuvo">
