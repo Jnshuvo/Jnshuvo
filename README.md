@@ -69,7 +69,7 @@ I'm a competent professional with extensive experience in designing, deploying, 
 </a>
 
 <a href="https://www.credly.com/users/jannatul-naim.shuvo">
-  <img src="https://github.com/user-attachments/assets/d120f9ea-90b5-4168-a64b-eb477c02f871" alt="StackOverflow" width="30"/>
+  <img src="https://github.com/user-attachments/assets/e4b73ffd-2e50-4ca6-804e-a0468631fe12" alt="Credly" width="30"/>
 </a>
 
 
